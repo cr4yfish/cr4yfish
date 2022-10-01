@@ -14,8 +14,9 @@ Tech Stack:
 Currently learning:
 - Python
 - R
-- Java
-- PHP
+- Java (Spring)
+- PHP (Laravel)
+- Docker
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=cr4yfish&show_icons=true&hide=prs,issues,contribs&custom_title=My%20stats&count_private=true&include_all_commits=true&bg_color=2d333b&border_color=2d333b&text_color=adbac7&title_color=adbac7&icon_color=6e7b87)
 
