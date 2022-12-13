@@ -10,6 +10,7 @@ Tech Stack:
 - React native
 - Express
 - C++
+- C#
 
 Currently learning:
 - Python
