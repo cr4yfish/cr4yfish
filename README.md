@@ -4,6 +4,7 @@
 I'm Manuel and I am a Fullstack Web Dev.
 Feel free to take a look around my repositories or contact me on [LinkedIn](https://www.linkedin.com/in/cr4yfish/)
 
+
 Tech Stack:
 - React
 - Nextjs
@@ -12,9 +13,3 @@ Tech Stack:
 - Docker
 - C++
 - C#
-
-Currently learning:
-- Python
-- R
-- Java (Spring)
-- PHP (Laravel)
