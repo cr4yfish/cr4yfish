@@ -9,5 +9,5 @@ My go-to Tech Stack:
 - Nextjs
 - Supabase
 - Figma
-- Langchain / Langgraph
-- OpenAI / Mistral
+- Langchain / Langgraph & Vercel AI SDK
+- OpenAI, Anthropic & Mistral
