@@ -7,7 +7,9 @@ Feel free to take a look around my repositories or contact me on [LinkedIn](http
 
 My go-to Tech Stack:
 - Nextjs
-- Supabase
+- Tailwind
+- Drizzle / Supabase / Postgresql
+- Vercel / AWS
 - Figma
 - Langchain / Langgraph & Vercel AI SDK
 - OpenAI, Anthropic & Mistral
