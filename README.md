@@ -7,7 +7,7 @@ Feel free to take a look around my repositories or contact me on [LinkedIn](http
 My go-to Tech Stack:
 - Nextjs
 - Tailwind
-- Drizzle / Supabase / Postgresql
-- Vercel / AWS / Azure / Ex. Google Cloud
+- Drizzle x Postgresql
+- Vercel / Supabase / AWS / Azure / Ex. Google Cloud
 - Vercel AI SDK / Langchain / Langgraph
 - Figma
