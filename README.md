@@ -1,13 +1,18 @@
 <h1>Hello there</h1>
 
 
-I'm Cr4yfish and I code.
+I'm Claire aka Cr4yfish and I build stuff.
 Feel free to take a look around my repositories or contact me on [LinkedIn](https://www.linkedin.com/in/cr4yfish/)
+
+Currently working on [Genie](https://www.genie-app.de).
 
 My go-to Tech Stack:
 - Nextjs
 - Tailwind
 - Drizzle x Postgresql
 - Vercel / Supabase / AWS / Azure / Ex. Google Cloud
-- Vercel AI SDK / Langchain / Langgraph
-- Figma
+- Vercel AI SDK
+- Figma / Claude Design
+
+
+No, I didn't bot my GitHub Repo. The repo number is inflated though from some of my coding agent tests.
