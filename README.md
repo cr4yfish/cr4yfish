@@ -15,4 +15,4 @@ My go-to Tech Stack:
 - Figma / Claude Design
 
 
-No, I didn't bot my GitHub Repo. The repo number is inflated though from some of my coding agent tests.
+No, I didn't bot my GitHub Repo. The repo number & commits late 2025 are inflated though from some of my auto-coding-agent tests.
