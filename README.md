@@ -8,10 +8,9 @@ Currently working on [Genie](https://www.genie-app.de).
 
 My go-to Tech Stack:
 - Nextjs
-- Tailwind
 - Drizzle x Postgresql
-- Vercel / Supabase / AWS / Azure / Ex. Google Cloud
-- Vercel AI SDK
+- Vercel / AWS / Supabase Azure / Ex. Google Cloud
+- Vercel AI SDK & Workflow SDK
 - Figma / Claude Design
 
 
