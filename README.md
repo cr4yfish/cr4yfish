@@ -7,7 +7,7 @@ Feel free to take a look around my repositories or contact me on [LinkedIn](http
 Currently working on [Genie](https://www.genie-app.de).
 
 
-Side project: Auto-Security testing for Web-Native Agents. Will be Open-Sourced soon.
+Side project: [AutoPwn PREVIEW](https://pwn.genie-app.de): Auto-Security testing for Web-Native Agents. Will be Open-Sourced soon.
 
 My go-to Tech Stack:
 - Nextjs
