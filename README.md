@@ -4,7 +4,7 @@
 I'm Claire aka Cr4yfish and I build stuff.
 Feel free to take a look around my repositories or contact me on [LinkedIn](https://www.linkedin.com/in/cr4yfish/)
 
-Currently working on [Genie](https://www.genie-app.de).
+Currently working on [Genie](https://www.genie-app.de): Agentic Coding but without the gatekeeping for non-techies.
 
 
 Side project: [AutoPwn PREVIEW](https://pwn.genie-app.de): Auto-Security testing for Web-Native Agents. Will be Open-Sourced soon.
