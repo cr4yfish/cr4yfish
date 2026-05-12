@@ -5,6 +5,7 @@ I'm Claire aka Cr4yfish and I build stuff.
 Feel free to take a look around my repositories or contact me on [LinkedIn](https://www.linkedin.com/in/cr4yfish/)
 
 Currently working on [Genie](https://www.genie-app.de).
+Side project: Auto-Security testing for Web-Native Agents.
 
 My go-to Tech Stack:
 - Nextjs
