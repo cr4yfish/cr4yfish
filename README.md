@@ -4,7 +4,7 @@
 I'm Claire aka Cr4yfish and I build stuff.
 Feel free to take a look around my repositories or contact me on [LinkedIn](https://www.linkedin.com/in/cr4yfish/).
 
-> I don't use AI for writing so everything you see written by me is actually me typing on my keyboard.
+> I don't use AI for writing text so everything you see written by me is actually me typing on my keyboard.
 
 Currently working on [Genie](https://www.genie-app.de): Agentic Coding but without the gatekeeping for non-techies.
 
